@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+
+input[type="button"], input[type="submit"], button {
+	color: #050;
+	font: bold 84% 'trebuchet ms', helvetica, sans-serif;
+	background-color: #fed;
+	border: 1px solid;
+	border-color: #696 #363 #363 #696;
+	margin: 5px;
+}
